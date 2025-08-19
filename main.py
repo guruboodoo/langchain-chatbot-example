@@ -1,4 +1,9 @@
-#main.py
+# main.py
+# TO INSTALL LIBRARIES:
+# pip install fastapi uvicorn langchain-openai langchain-core langchain-community python-dotenv
+# TO LAUNCH SERVER:
+# uvicorn main:app --reload
+
 import os
 from typing import Dict, Any
 
