@@ -3,6 +3,7 @@
 # pip install fastapi uvicorn langchain-openai langchain-core langchain-community python-dotenv
 # TO LAUNCH SERVER:
 # uvicorn main:app --reload
+# API INFO: http://127.0.0.1:8000/docs (or whatever port you will use)
 
 import os
 from typing import Dict, Any
